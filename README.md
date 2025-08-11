@@ -1,4 +1,5 @@
-## Hi there 👋
+I'm a Full Stack Developer at This-is-Software, building scalable web apps and internal tools for mid-size enterprises.  
+Skilled in React, Node.js, Firebase & AI APIs. Curious about everything automation.
 
 <!--
 **mlazarchuk-tis-tech/mlazarchuk-tis-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
